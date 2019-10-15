@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thahmoleoy.anavonhuben.com/sitemap.xml
